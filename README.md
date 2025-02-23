@@ -25,7 +25,7 @@
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------|----------------------------------|
 | **Sección 1: Documentación del proceso de aprendizaje automático** | Completar el Canvas de aprendizaje automático.                                                              | Brayan y Julian                 |
 | **Sección 2: Entendimiento y preparación de los datos** | Perfilamiento, análisis de calidad de datos, tratamiento de los datos.                                       | Brayan y Julian                 |
-| **Sección 3: Modelado y evaluación**           | Aplicación de mínimo tres algoritmos diferentes. Cada estudiante implementó su algoritmo.                   | Brayan (algoritmo 1), Julian (algoritmo 2), Daniel (algoritmo 3) |
+| **Sección 3: Modelado y evaluación**           | Aplicación de mínimo tres algoritmos diferentes. Cada estudiante implementó su algoritmo.                   | Brayan (Light), Julian (RF), Daniel (Vectorización) El video fue realizado por Julian |
 | **Sección 4: Resultados**                      | Análisis de los resultados obtenidos, métricas de calidad, y análisis de las palabras seleccionadas.       | Todos los integrantes           |
-| **Sección 5: Trabajo en equipo**               | Descripción de roles, tareas, tiempos dedicados, algoritmos trabajados, retos enfrentados, y uso de ChatGPT. | Brayan                          |
+| **Sección 5: Trabajo en equipo**               | Descripción de roles, tareas, tiempos dedicados, algoritmos trabajados, retos enfrentados, y uso de ChatGPT. | Brayan      y Daniel                   |
 | **Sección 6: Wiki**               | Documentación de resultados | Daniel                   |
